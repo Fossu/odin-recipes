@@ -6,3 +6,5 @@
     use GitHub in a project setting, how to set up
     the directories using the terminal and how to 
     write basic HTML structures.
+
+    Link: https://github.com/Fossu/odin-recipes.git
