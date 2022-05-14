@@ -7,4 +7,4 @@
     the directories using the terminal and how to 
     write basic HTML structures.
 
-    Link: https://github.com/Fossu/odin-recipes.git
+    [Link to page](https://github.com/Fossu/odin-recipes.git)
